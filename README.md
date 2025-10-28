@@ -1,4 +1,4 @@
-# Chainerse
+
 # 🌐 ChainVerse – AI-Powered Multi-Functional Platform
 
 **Built and deployed via [AImpact.dev](https://aimpact.dev)**  
